@@ -2,7 +2,7 @@
 
 The changes you'd notice in The Clawd Files universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
-## Coming in the next Clawd Clash release
+## Clawd Clash 3.3.0 (2026-10-15)
 
 - **A new universe.** The Clawd Files joins Star Clawds, Marvelous Clawds, Detective Clawds and Doctor Clawd: pick it in **Settings → Universe**, or in the screen saver's Options.
 - **82 characters.** The FBI (Fox Clawder cracking sunflower seeds before pointing at the saucer in the sky, Dana Scrawly holding up her badge, Skinnard rubbing his eyes, Doggedd, Reyez, Einstine, Millar), the Lone Gunclawds, Deep Clawt, Mister X, Marita, Gibson Prays and the Scrawly and Clawder families. Facing them, the Syndicate (the Cigarette-Smoking Clawd and his smoke rings, Clawcek, the Well-Manicured Clawd, Kersh, the Toothpick Man), the aliens (the Bounty Hunter shifting into Scrawly, the Black Oil, the Grey, the Faceless Rebel, the super soldiers) and the monsters of the week, from Eugene Clawms squeezing into a vent to the Great Mutato with his sandwich. HEM turns up in a trench coat with a flashlight.

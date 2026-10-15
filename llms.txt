@@ -4,6 +4,6 @@
 
 - The Clawd Files is the paranormal-investigation parody universe of Clawd Clash: 46 villains and 36 heroes (Fox Clawder, Dana Scrawly, Skinnard, the Lone Gunclawds, the Cigarette-Smoking Clawd and the Syndicate, the Alien Bounty Hunter, the Black Oil, the Grey, super soldiers, and monsters of the week from Eugene Clawms and the Flukeman to the Great Mutato) and 20 places (the X-Files office, Skinnard's office, the Syndicate's club, Bellefleur Woods, Area 51, the Antarctic ice field, the mothership and more).
 - Set pieces: an unmarked FBI sedan, a black helicopter or a saucer picks people up; missing time: when an FBI agent's session compacts its context they're taken up in a beam of light and set back down; ten transitions built on the show (the opening titles among them); each place types itself in, as every scene opens in the show.
-- Install: The Clawd Files ships with Clawd Clash from its next release (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → The Clawd Files).
+- Install: The Clawd Files ships with Clawd Clash 3.3.0 and later (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → The Clawd Files).
 - The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
 - The other universes: Star Clawds, Marvelous Clawds, Detective Clawds and Doctor Clawd, and Clawd Royale, which puts them all in one scene.
