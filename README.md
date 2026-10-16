@@ -17,7 +17,7 @@
   <a href="https://github.com/rodclemen/clawd-clash"><img src="https://img.shields.io/badge/part%20of-Clawd%20Clash-8A2BE2" alt="Part of Clawd Clash"></a>
 </p>
 
-https://github.com/user-attachments/assets/d7e07f3a-4abc-454a-a2bc-3a4f3c150738
+https://github.com/user-attachments/assets/c3c0f4a1-ac2b-41b5-9b72-bc03c1e123c9
 
 <p align="center"><sub>🔊 <b>Click the speaker in the player for sound</b>: GitHub starts videos muted. Full 1080p version: <a href="promo/the-clawd-files-promo.mp4">promo/the-clawd-files-promo.mp4</a></sub></p>
 

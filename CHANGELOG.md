@@ -2,6 +2,10 @@
 
 The changes you'd notice in The Clawd Files universe, newest first. The full, detailed history (every fix, every version) lives in [Clawd Clash](https://github.com/rodclemen/clawd-clash).
 
+## 2026-10-17
+
+- **The trailer plays for everyone.** The video at the top of this page only played for people signed in to GitHub. It's uploaded again.
+
 ## Clawd Clash 3.3.0 (2026-10-15)
 
 - **A new universe.** The Clawd Files joins Star Clawds, Marvelous Clawds, Detective Clawds and Doctor Clawd: pick it in **Settings → Universe**, or in the screen saver's Options.
