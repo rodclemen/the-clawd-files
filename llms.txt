@@ -6,4 +6,4 @@
 - Set pieces: an unmarked FBI sedan, a black helicopter or a saucer picks people up; missing time: when an FBI agent's session compacts its context they're taken up in a beam of light and set back down; ten transitions built on the show (the opening titles among them); each place types itself in, as every scene opens in the show.
 - Install: The Clawd Files ships with Clawd Clash 3.3.0 and later (`brew tap rodclemen/tap && brew install --cask clawd-clash`, then Settings → Universe → The Clawd Files).
 - The app, its source, docs and full history: https://github.com/rodclemen/clawd-clash
-- The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd and Stevie Clawdberg, and Clawd Royale, which puts them all in one scene.
+- The other universes: Star Clawds, Marvelous Clawds, Detective Clawds, Doctor Clawd, Stevie Clawdberg and Clawd of the Rings, and Clawd Royale, which puts them all in one scene.
